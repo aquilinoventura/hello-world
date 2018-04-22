@@ -1,2 +1,3 @@
 # hello-world
 Just another repository
+I'm an RF Senior Engineer learning to code in Python...
